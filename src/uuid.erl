@@ -13,10 +13,11 @@
 %% GNU General Public License for more details.
 %%
 %% You should have received a copy of the GNU General Public License
-%% along with erlang-uuid.  If not, see <http://www.gnu.org/licenses/>.
+%% along with Erlang UUID.  If not, see <http://www.gnu.org/licenses/>.
 %% -----------------------------------------------------------------------------
 %% @author Per Andersson <avtobiff@gmail.com>
 %% @copyright 2010-2012 Per Andersson
+%%            2012 Bip Thelin
 %% @doc
 %% Erlang UUID
 %%
@@ -38,6 +39,8 @@
 %%      "6ff58b11-e0b2-536c-b6be-bdccd38836a2"
 %% </pre>
 %% @end
+%% @reference See <a href="http://www.ietf.org/rfc/rfc4122.txt">RFC 4122</a>
+%%            for more information.
 %% -----------------------------------------------------------------------------
 
 -module(uuid).

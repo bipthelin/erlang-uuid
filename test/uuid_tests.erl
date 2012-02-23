@@ -13,11 +13,11 @@
 %% GNU General Public License for more details.
 %%
 %% You should have received a copy of the GNU General Public License
-%% along with erlang-uuid.  If not, see <http://www.gnu.org/licenses/>.
+%% along with Erlang UUID.  If not, see <http://www.gnu.org/licenses/>.
 %% -----------------------------------------------------------------------------
 %% @author Per Andersson <avtobiff@gmail.com>
 %% @copyright 2010-2012 Per Andersson
-%% @copyright 2012 Bip Thelin
+%%            2012 Bip Thelin
 %% @doc
 %% Erlang UUID
 %%
